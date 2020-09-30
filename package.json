@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Marinessa393.github.io/DevCat",
+  "homepage": "https://yaroslav-uaa.github.io/DevCat",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
